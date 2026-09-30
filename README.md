@@ -48,7 +48,7 @@ https://github.com/p80227653-hub/nwis-hybrid-core
 
 <br/>
 
-### 🎥 [**LIVE EXECUTION PROOF (YouTube)**](https://youtu.be/YOUR_VIDEO_ID)  ·  🖥️ [**LIVE EDGE-NATIVE DASHBOARD**](https://YOUR_DASHBOARD_URL)
+### 🎥 [**LIVE EXECUTION PROOF (YouTube)**](https://youtu.be/OlTUmlE4V44)  ·  🖥️ [**LIVE EDGE-NATIVE DASHBOARD**](https://offset-well-intellig-xv06.bolt.host/)
 
 </div>
 
