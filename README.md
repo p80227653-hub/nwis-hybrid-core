@@ -10,8 +10,7 @@
 
 ![Build](https://img.shields.io/github/actions/workflow/status/devrajsingh56861-create/YOUR_REPO/ci.yml?style=for-the-badge&label=Build&logo=githubactions&logoColor=white)
 
-](https://github.com/devrajsingh56861-create/YOUR_REPO/actions)
-[
+https://github.com/p80227653-hub/nwis-hybrid-core
 
 ![Latency](https://img.shields.io/badge/Latency-0ms_network_hop-00e676?style=for-the-badge&logo=speedtest&logoColor=white)
 
